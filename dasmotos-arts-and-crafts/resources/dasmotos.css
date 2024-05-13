@@ -1,0 +1,46 @@
+body {
+    font-family: Helvetica;
+    box-sizing: border-box;
+    
+}
+
+header {
+    
+    font-weight: bold;
+    background-image: url(./pattern.jpeg);
+    height: auto;
+    width: auto;
+    text-align: center;
+    color: khaki;
+    opacity: 0,8;
+    
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.red {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+strong {
+    font-weight: bold;
+    color: blue
+}
+
